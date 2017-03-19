@@ -1,5 +1,3 @@
-During my journey of studying Machine Learning I've been noting down thoughts I've had along the way.  There is a broad theme of trust in AI, which is an area of interest to me.
-
 # Common-sense and side effects in AI Safety
 
 The [Concrete problems in AI safety](https://arxiv.org/abs/1606.06565) paper  describes five key problems that need to be solved on the way to achieving safety of general AI. Some say the first of these, 'Avoiding Negative Side Effects', is the hardest, because we don't even have a clear definition of what a side effect is. The example given in the paper is of a cleaning robot knocking over a vase in order to clean faster.
