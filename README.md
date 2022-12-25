@@ -4,7 +4,7 @@ The [Concrete problems in AI safety](https://arxiv.org/abs/1606.06565) paper  de
 
 It strikes me that humans actually have to learn what a side effect is too, and it comes from our model of the world and what we call 'common sense'.  For example, we know that vases are valuable, fragile and liable to fall over, so we try not to bump into them.  In this case what drives us perhaps is a general desire not to destroy value.  Or it could be the concept of ownership of objects, and that it is undesirable to pay the social and material cost of breaking someone else's vase.
 
-Much of this could be formalised, and learnt, by crawling the web and mining it for relationships and arguments.  For example, you could learn that object 'vase' has attributes 'is valuable' and 'is fragile', and that being an object it probably has an owner. This knowledge could then be applied to a wide range of problems.
+Much of this could be formalised, and learnt, by crawling the web and mining it for relationships and arguments.  For example, you could learn that object 'vase' has attributes 'is_valuable' and 'is_fragile', and that being an object it probably has an owner. This knowledge could then be applied to a wide range of problems.
 
 This proposal seems to be absent from the paper - if you know why or have something to add, I'd be very interested to hear!
 
@@ -16,7 +16,7 @@ It raises the interesting question about what would be a strategy to keep a low-
 
 I've begun to see it a bit like wearing clothes for bodily privacy - wearing no clothes at all is not a good strategy for blending in!  Instead you perhaps need to wear average and inconspicuous clothes.
 
-So returning to Facebook, perhaps the best way to keep a low profile would be to 'like' some very standard things, like football and fish & chips.  It would be interesting to figure out exactly what would be the most inconspicuous combination.
+So returning to Facebook, perhaps the best way to keep a low profile would be to 'like' some very standard things, like football and fish & chips (although that may identify you as British)!.  It would be interesting to figure out exactly what would be the most inconspicuous combination.
 
 Another strategy could be to defy categorisation altogether, so whatever was inferred about you has very low precision.  For example, if you were to 'like' a completely random combination of topics you would still stand out, as you would if you wore random clothes, but it would be very hard to make confident inferences about you because nobody else has behaved similarly. This approach too would give away information about your attitude to online privacy...
 
